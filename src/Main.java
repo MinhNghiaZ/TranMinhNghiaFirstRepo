@@ -8,7 +8,6 @@ public class Main {
         String yourname = sc.next();
         System.out.println("Hello "+ yourname);
         System.out.println("Welcome to my repository");
-        
 
     }
 }
