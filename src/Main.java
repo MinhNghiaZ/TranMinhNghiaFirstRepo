@@ -6,6 +6,5 @@ public class Main {
         System.out.println("Welcome to Tran Minh Nghia Java Repository.");
         System.out.println("Enter your name: ");
         
-        
     }
 }
